@@ -11,7 +11,7 @@
 
 #### Linus:
 
-#### Lucas:
+#### Lucas: Installed the Fusion 360 software & started prototyping/designing a structure meant to hold the solar pannel. In the long run, this may enable for the panel to be automatically rotated to maximize its energy production capabilitites without human intervention. 
 
 #### Marc:
 
